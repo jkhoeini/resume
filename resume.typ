@@ -33,10 +33,9 @@ Senior Software Engineer \@ Spotify
         [+46 72 169 7134],
         [jonathan\@komemfamily.com],
         [www.linkedin.com/in/khoeini],
-        [github.com/mkhoeini],
+        [github.com/jkhoeini],
         [stackoverflow.com/users/774896])
 }
-
 
 = HIGHLIGHTS
 Software engineering leader with *15+ years* of experience. Technical co-founder. CTO. VP of Technology.
@@ -45,15 +44,7 @@ Frontend (*TypeScript*, *React*), devops and cloud services (*Kubernetes*, *BigT
 *iOS*, And *Data Engineering*. 
 
 = Keywords
-#text(size: 8pt, [Java • Python • Swift • Ruby • Elixir • Go • NodeJs • ExpressJs • GCP •
-pub/sub • bigtable • GKE • PostgreSQL • Redis • gRPC •
-Javascript • Typescript • React • NextJs • HTML •
-CSS • SASS • CSS in JS • CSS Modules • Atomic
-CSS • Service Workers • Progressive Web App (PWA) •
-Scrum • Kanban • Agile • System Design • Algorithms and
-Datastructures • TDD • BDD • OOP • FP • SOLID •
-Docker • K8s • CI/CD • Bash • Linux • NGINX •
-Webpack • Babel • NPM • Yarn • Jest • Cypress • Git])
+#text(size: 8pt, [Java • Python • Swift • Ruby • Elixir • Clojure • Go • NodeJs • ExpressJs • GCP • pub/sub • bigtable • GKE • PostgreSQL • Redis • gRPC • JavaScript • TypeScript • React • NextJs • HTML • CSS • Tailwind CSS • Playwright • Service Workers • Progressive Web App (PWA) • Scrum • Kanban • Agile • System Design • Algorithms and Datastructures • TDD • BDD • OOP • FP • SOLID • Docker • K8s • CI/CD • Bash • Linux • NGINX • Webpack • Babel • NPM • Yarn • Jest • Cypress • Git • Jujutsu VCS])
 
 = PROFESSIOINAL EXPERIENCES
 #experience("Senior Software Engineer", "(6 years) December 2019 – Present", "Spotify", "Stockholm, Sweden")
